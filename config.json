@@ -29,6 +29,12 @@
       "url": "https://github.com/Mvs333",
       "icon": "github",
       "required": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/YOUR_USERNAME",
+      "icon": "linkedin",
+      "required": true
     }
   ],
   "github_username": "Mvs333",
@@ -42,20 +48,31 @@
     "title": "Featured Projects",
     "items": [
       {
-        "name": "Portfolio Website",
-        "date": "March 19, 2026",
+        "name": "Job Portal",
+        "date": "2025",
         "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
+          "A comprehensive job portal platform connecting employers and job seekers",
+          "Built with [your tech stack - PHP/MySQL/etc]",
+          "Features include job posting, application tracking, and user authentication"
         ],
         "picture": "assets/projects/Placeholder.png",
         "link": {
-          "url": "https://Mvs333.github.io",
+          "url": "https://job-portal3.free.nf",
           "title": "View Live Site"
-        }
+        },
+        "github": "https://github.com/Mvs33/https-job-portal3.free.nf-"
       }
     ]
+  },
+  "github_projects": {
+    "title": "Projects on GitHub",
+    "enabled": true,
+    "fetch_repos": true,
+    "repo_count": 6,
+    "show_forks": false,
+    "show_topics": true,
+    "exclude_repos": ["Mvs333.github.io"],
+    "featured_topics": ["portfolio", "project", "featured"]
   },
   "experience": {
     "title": "Professional Experience",
@@ -108,13 +125,11 @@
       }
     ]
   },
-  "github_projects": {
-    "title": "Projects on GitHub"
-  },
   "footer": {
     "show_social_links": true,
     "show_built_with": true,
     "built_with_text": "Built with ❤️ using vanilla JavaScript",
     "tagline": "Let's connect and build something amazing together!"
   }
+
 }
