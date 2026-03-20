@@ -35,7 +35,7 @@ The live portfolio includes detailed professional experience, technical skills a
 
 Let's connect and build something amazing together!
 
-- 🌐 **Portfolio**: [https://Mvs333.github.io](https://Mvs333.github.io)
+- 🌐 **Portfolio**: [https://github.com/Mvs333/Manav-Mehta-Mvs333.github.io]([https://Mvs333.github.io](https://github.com/Mvs333/Manav-Mehta-Mvs333.github.io))
 - 💻 **GitHub**: [https://github.com/Mvs333](https://github.com/Mvs333)
 - 🔗 **LinkedIn**: [undefined](undefined)
 
