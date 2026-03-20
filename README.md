@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://mvs333.github.io/Manav-Mehta-Mvs333.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://mvs333.github.io/Manav-Mehta-Mvs333.github.io-/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Mvs333)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manav-mehta-315871291)
 
@@ -35,7 +35,7 @@ The live portfolio includes detailed professional experience, technical skills a
 
 Let's connect and build something amazing together!
 
-- 🌐 **Portfolio**: [https://mvs333.github.io/Manav-Mehta-Mvs333.github.io/](https://mvs333.github.io/Manav-Mehta-Mvs333.github.io/)
+- 🌐 **Portfolio**: [https://mvs333.github.io/Manav-Mehta-Mvs333.github.io/](https://mvs333.github.io/Manav-Mehta-Mvs333.github.io-/)
 - 💻 **GitHub**: [https://github.com/Mvs333](https://github.com/Mvs333)
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/manav-mehta-315871291](https://www.linkedin.com/in/manav-mehta-315871291)
 
