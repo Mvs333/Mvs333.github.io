@@ -1,4 +1,4 @@
-# Manav Mehta - Developer Portfolio
+# Manav Shailesh Mehta - Developer Portfolio
 
 <div align="left">
   
