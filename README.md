@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)]([https://Mvs333.github.io](https://github.com/Mvs333/Manav-Mehta-Mvs333.github.io))
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)]([[https://Mvs333.github.io](https://github.com/Mvs333/Manav-Mehta-Mvs333.github.io)](https://github.com/Mvs333/Manav-Mehta-Mvs333.github.io))
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Mvs333)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](undefined)
 
